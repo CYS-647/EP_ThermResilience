@@ -45,4 +45,7 @@ Several user inputs are needed to get started:
    
 
 9) Run the "Analytics Dashboard container" then open the dashboard, there should be an url link in the container output.
-![alt text](https://github.com/CYS-647/EP_ThermResilience/blob/main/images/DashboardSample_CarpetPlot.png?raw=true)
+
+https://github.com/CYS-647/EP_ThermResilience/assets/57151349/d3550e68-563e-4dd0-9a10-cd16571d581a
+
+
